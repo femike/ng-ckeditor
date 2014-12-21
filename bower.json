@@ -5,6 +5,16 @@
     "dependencies": {
         "angular": "~1.2.9"
     },
+	"ignore": [
+		"examples",
+		"src",
+		"test",
+		"package.json",
+		"Gruntfile.js",
+		".travis.yml",
+		".gitignore",
+		"karma.conf.js"
+	],
     "devDependencies": {
         "jquery": "~2.0.3",
         "angular-mocks": "~1.2.9",
